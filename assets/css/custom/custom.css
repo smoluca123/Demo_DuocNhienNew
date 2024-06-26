@@ -1,3 +1,23 @@
 .text-shadow-sm {
     text-shadow: black 1px 0 10px;
 }
+
+.more-about-custom {
+    background-size: 45%;
+    background-position: left !important;
+}
+
+.counters-custom>div {
+    justify-content: center;
+}
+
+/* .popins-font {
+    font-family: 'Poppins', sans-serif !important;
+} */
+
+@media screen and (max-width:991px) {
+    .more-about-custom {
+        background-size: 100%;
+        background-position: 0 0 !important;
+    }
+}
