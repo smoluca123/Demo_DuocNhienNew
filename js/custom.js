@@ -43,7 +43,8 @@ function renderHeader() {
                               <li
                                 class="nav-item nav-item-header-top-socials d-flex justify-content-between"
                               >
-                                <span class="header-top-socials p-0 h-100">
+                                <!-- 
+                                  <span class="header-top-socials p-0 h-100">
                                   <ul class="d-flex align-items-center h-100 p-0">
                                     <li class="list-unstyled">
                                       <a href="#"
@@ -68,13 +69,14 @@ function renderHeader() {
                                     </li>
                                   </ul>
                                 </span>
+                                -->
                                 <span
                                   class="header-top-button-make-as-appoitment d-inline-flex align-items-center justify-content-center h-100 p-0 align-top"
                                 >
                                   <a
-                                    href="demo-medical-2-contact-us.html"
+                                    href="tel:+84948903878"
                                     class="d-flex align-items-center justify-content-center h-100 w-100 btn-primary font-weight-normal text-decoration-none"
-                                    >MAKE AN APPOINTMENT</a
+                                    >Liên Hệ</a
                                   >
                                 </span>
                               </li>
@@ -358,7 +360,8 @@ function renderFooter() {
                   >
                 </div>
               </div>
-              <ul class="social-icons">
+              <!--
+                <ul class="social-icons">
                 <li class="social-icons-instagram">
                   <a
                     href="http://www.instagram.com/"
@@ -389,6 +392,7 @@ function renderFooter() {
                   </a>
                 </li>
               </ul>
+              -->
             </div>
             <div class="col-sm-6 pt-5 pt-md-0 col-lg-4">
               <div class="nav-footer-container">
