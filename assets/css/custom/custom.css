@@ -15,9 +15,17 @@
     font-family: 'Poppins', sans-serif !important;
 } */
 
+.patient-reviews {
+    background-position: 130%;
+}
+
 @media screen and (max-width:991px) {
     .more-about-custom {
         background-size: 100%;
         background-position: 0 0 !important;
+    }
+
+    .patient-reviews {
+        background-position: 0 0;
     }
 }
